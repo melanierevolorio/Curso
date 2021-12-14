@@ -10,8 +10,8 @@ Proyecto para el Curso Práctico de JavaScript de Platzi
 - Animaciones y transiciones
 
 ## Cursos relacionados en Platzi
-- Curso de Frontend - @teffcode
-- Curso Básico de JavaScript - @degranda10
-- Curso Práctico de JavaScript - @juandc
+- Curso de Frontend 
+- Curso Básico de JavaScript 
+- Curso Práctico de JavaScript 
 
 
